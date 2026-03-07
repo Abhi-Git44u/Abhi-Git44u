@@ -7,7 +7,7 @@ Data Analyst | Insight Driven
 I am an aspiring Data Analyst with a strong foundation in data analysis, statistics, and problem-solving. Skilled in Python, SQL, Excel, and data visualization tools, I enjoy transforming raw data into meaningful insights that support data-driven decision-making.
 
 * 🌍  I'm based in Bangalore India
-* ✉️  You can contact me at [code.shivam11@gmail.com](mailto:code.shivam11@gmail.com)
+* ✉️  You can contact me at [code.shivam11@gmail.com](mailto:abhishek.raj.insights@gmail.com)
 * 🚀  I'm currently working on [My projects](http://https://github.com/Abhi-Git44u/Meta-Project)
 * 🧠  I'm currently learning Azure Cloud Services
 * 👥  I'm looking to collaborate on Data Analyst Job Roles
